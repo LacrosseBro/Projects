@@ -1,4 +1,5 @@
-The courses compromising the Data Science Specialization are:
+##The courses compromising the Data Science Specialization are:
+
 *Data Scientist's Toolbox
 *R Programming
 *Exploratory Data Analysis
